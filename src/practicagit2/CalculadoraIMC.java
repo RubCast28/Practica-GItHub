@@ -15,6 +15,7 @@ public class CalculadoraIMC {
     
     public static void main(String[] args){
         Scanner teclado = new Scanner(System.in);
+         System.out.println("Hola buenas");
         
         System.out.print("Ingresa tu peso en kilogramos: ");
         double peso = teclado.nextDouble();
