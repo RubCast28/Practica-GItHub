@@ -27,7 +27,7 @@ public class CalculadoraIMC {
             double imc = peso / (altura * altura);
             System.out.println("Tu IMC es: " + imc);
         }else{
-            System.out.println("Los valores ingresados no son válidos.");
+            System.out.println("Los valores ingresados no son válidos. Maldito gordo");
         }
     }
 }
